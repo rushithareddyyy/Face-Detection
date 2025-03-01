@@ -6,7 +6,7 @@
 ## Project Info
 
 All the features implemented in this project are as follows: 
-The core logic can be found in [FaceDetect > facedetect.py]
+The core logic can be found in [Face Detection > facedetect.py]
 
 + FaceDetect has been implemented and packaged as a class to be imported for usage.
 + The framework allows reading images, videos and webcam streams in 2 ways: 
